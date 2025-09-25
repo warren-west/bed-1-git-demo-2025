@@ -5,4 +5,4 @@ This is a little project trying out the Git basics for the first time.
 Created by @warren-west for &copy; Noroff Fagskole AS
 
 ## License
-[MIT](https://choosealicence.com/mit)
+[MIT](https://choosealicense.com/licenses/mit/)
