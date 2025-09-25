@@ -1,0 +1,2 @@
+# Git Demo BED1
+This is a little project trying out the Git basics for the first time.
